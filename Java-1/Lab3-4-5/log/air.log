@@ -1,0 +1,61 @@
+12.03.2018 03:55:18 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 03:55:18 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 03:55:18 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:00:03 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:00:03 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:00:03 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:00:03 [main] INFO  by.basil.one.Main.Main  - Index 0 out-of-bounds for length 0
+12.03.2018 04:02:22 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:02:22 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:02:22 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:03:24 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:03:24 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:03:24 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:03:24 [main] INFO  by.basil.one.Main.Main  - Index 1 out-of-bounds for length 1
+12.03.2018 04:03:33 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:03:33 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:03:33 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:13:35 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:13:35 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:13:35 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:15:39 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:15:39 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:15:39 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:17:57 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:17:57 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:17:57 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:17:57 [main] INFO  by.basil.one.Main.Main  - src\XML\Serialize.xml (Системе не удается найти указанный путь)
+12.03.2018 04:18:25 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:18:25 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:18:25 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:18:48 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:18:48 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:18:48 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:53:06 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:53:06 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:53:06 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:53:07 [main] INFO  by.basil.one.Main.Main  - src\file\Serialize.json (Системе не удается найти указанный путь)
+12.03.2018 04:53:08 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:53:08 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:53:08 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:53:08 [main] INFO  by.basil.one.Main.Main  - src\file\Serialize.json (Системе не удается найти указанный путь)
+12.03.2018 04:53:29 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 04:53:29 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 04:53:29 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 04:53:29 [main] INFO  by.basil.one.Main.Main  - src\file\Serialize.json (Системе не удается найти указанный путь)
+12.03.2018 05:23:08 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 05:23:08 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 05:23:08 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 05:23:08 [main] INFO  by.basil.one.Main.Main  - src\file\Serialize.json (Системе не удается найти указанный путь)
+12.03.2018 06:13:35 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 06:13:35 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 06:13:35 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 06:13:36 [main] INFO  by.basil.one.Main.Main  - src\file\Serialize.json (Системе не удается найти указанный путь)
+12.03.2018 06:16:48 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 06:16:48 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 06:16:48 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 06:16:49 [main] INFO  by.basil.one.Main.Main  - src\file\Serialize.json (Системе не удается найти указанный путь)
+12.03.2018 06:36:17 [main] INFO  by.basil.one.Main.Main  - Starting program...
+12.03.2018 06:36:17 [main] INFO  by.basil.one.Dispetcher  - BEHOLD NEW DISPETCHER
+12.03.2018 06:36:17 [main] INFO  by.basil.one.Iiarport.Iiarport  - AirCompany has been created.
+12.03.2018 06:36:17 [main] INFO  by.basil.one.Main.Main  - src\file\Serialize.json (������� �� ������� ����� ��������� ����)
